@@ -1,0 +1,14 @@
+.left{
+    width: 50%;
+    float: left;
+
+}
+
+.right {
+    width: 50%;
+    float: right;
+}
+.picture{
+    margin-right: 20px;
+    margin-top: 20px;
+}
