@@ -11,4 +11,27 @@
 .picture{
     margin-right: 20px;
     margin-top: 20px;
+    margin: 40px;
+}
+.text{
+text-align: left;
+color: blueviolet;
+margin: 90px;
+}
+.newtext{
+    margin: 90px; ;
+color: blue;
+font-family: myfont;
+font-size: larger;
+
+}
+@font-face {
+    font-family:myfont;
+    src: url(IranNastaliq/IranNastaliq.ttf);
+}
+.red{
+   margin: 30px;
+   color: red;
+   text-size-adjust: 90px;
+   font-family: myfont;
 }
