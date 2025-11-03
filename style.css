@@ -14,9 +14,12 @@
     margin: 40px;
 }
 .text{
-text-align: left;
+text-align: center;
 color: blueviolet;
 margin: 90px;
+font-family: myfont;
+font-size: xx-large;
+font-weight: bolder;
 }
 .newtext{
     margin: 90px; ;
@@ -30,8 +33,8 @@ font-size: larger;
     src: url(IranNastaliq/IranNastaliq.ttf);
 }
 .red{
-   margin: 30px;
    color: red;
-   text-size-adjust: 90px;
-   font-family: myfont;
+font-size: xx-large;
+font-family: myfont;
+text-align: center;
 }
